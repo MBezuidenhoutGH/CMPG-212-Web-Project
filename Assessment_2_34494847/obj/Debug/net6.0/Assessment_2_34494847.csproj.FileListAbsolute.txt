@@ -1,0 +1,7 @@
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.AssemblyInfo.cs
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marce\Desktop\2021 Uni\Sem 1\CMPG212\Assessment_2_34494847\Assessment_2_34494847\obj\Debug\net6.0\Assessment_2_34494847.MvcApplicationPartsAssemblyInfo.cache
